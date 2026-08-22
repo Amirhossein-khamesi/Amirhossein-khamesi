@@ -43,12 +43,10 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/amirhossein_khamesi?igsi=MXFkeWpmeXZveW8zbA%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" alt="Instagram" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/instagram.svg" width="45" height="45" alt="Instagram" />  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/amirhossein_khamesi" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" height="45" alt="Telegram" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/telegram.svg" width="45" height="45" alt="Telegram" />  </a>
 </p>
 
 <p align="center">✨ Thanks for visiting my profile! ✨</p>
