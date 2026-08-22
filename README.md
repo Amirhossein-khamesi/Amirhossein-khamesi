@@ -35,8 +35,7 @@
 
 <p align="center">
   <a href="mailto:amirhosseinkhamesi80@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Gmail" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/gmail.svg" width="45" height="45" alt="Gmail" />  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amirhossein-khamesi-7395091b5/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" width="45" height="45" alt="LinkedIn" />
