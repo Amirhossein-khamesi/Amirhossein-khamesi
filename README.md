@@ -39,7 +39,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amirhossein-khamesi-7395091b5/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" width="45" height="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/amirhossein_khamesi?igsi=MXFkeWpmeXZveW8zbA%3D%3D&utm_source=qr" target="_blank">
