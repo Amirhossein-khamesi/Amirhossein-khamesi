@@ -34,17 +34,20 @@
 ## 💻 Contact me
 
 <p align="center">
-  <a href="mailto:amirhosseinkhamesi80@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:amirhosseinkhamesi80@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Gmail" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amirhossein-khamesi-7395091b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/amirhossein_khamesi?igsi=MXFkeWpmeXZveW8zbA%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/amirhossein_khamesi" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" height="45" alt="Telegram" />
   </a>
 </p>
 
